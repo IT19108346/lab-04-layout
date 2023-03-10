@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab 04 sample</string>
+    <string name="entername">Enter the name</string>
+    <string name="email" >Enter the Email</string>
+    <string name="password">Enter the password</string>
+    <string name="re_password">Re enter password</string>
+</resources>
